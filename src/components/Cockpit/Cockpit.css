@@ -1,0 +1,27 @@
+.Header {
+  background: #444;
+  color: #fefefe;
+  padding: 16px;
+  margin-bottom: 1px;
+}
+
+.Header span {
+  padding: 0 5px;
+  color: palegoldenrod;
+  font-size: 20px;
+}
+.Header span:last-child {
+  padding-left: 50px;
+  color: palevioletred;
+}
+
+form input {
+  padding: 10px;
+  width: 300px;
+}
+form button {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 5px;
+  background: lightcyan;
+}
